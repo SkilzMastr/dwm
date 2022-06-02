@@ -31,7 +31,7 @@ static const Rule rules[] = {
 	{ "Firefox",  NULL,       NULL,       1 << 8,       0,           -1 },
 	{ "Discord",  NULL,       NULL,       1 << 6,       1,            0 },
 	{ "Spotify",  NULL,       NULL,       1 << 2,       0,           -1 },
-	{ "Dolphin",  NULL,       NULL,       1 << 4,       0,            0 },
+	{ "mpv",      NULL,       NULL,       1 << 5,       1,            0 },
 };
 
 /* layout(s) */
